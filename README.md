@@ -1,6 +1,6 @@
 # Plann.er
 
-Plann.er é uma aplicação web desenvolvida durante o NLW Journey da [Rocketseat](https://github.com/Rocketseat), projetada para facilitar a organização de roteiros de viagem em grupo.
+Plann.er é uma aplicação web desenvolvida durante o NLW Journey da [Rocketseat](https://github.com/Rocketseat), projetada para facilitar a organização de roteiros de viagens em grupo.
 
 ## Tecnologias utilizadas
 
