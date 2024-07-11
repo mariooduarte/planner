@@ -31,6 +31,7 @@ $ npm install
 
 # Inicie a aplicação web
 $ npm run dev
+```
 
 ## Licença
 
